@@ -1,4 +1,4 @@
-## Building this project
+## Unpackaging this project
 
 Open Vivado and go to tcl console:
 
